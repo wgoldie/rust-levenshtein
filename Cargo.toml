@@ -1,0 +1,6 @@
+[package]
+name = "levenshtein"
+version = "0.1.0"
+authors = ["Will Goldie <wgoldie@gmail.com>"]
+
+[dependencies]
